@@ -15,5 +15,5 @@ dependencies:
   - tqdm
   - icecream
   - pip:
-    - submodules/compress-diff-gaussian-rasterization
-    - submodules/simple-knn
+   # - submodules/compress-diff-gaussian-rasterization
+   # - submodules/simple-knn
